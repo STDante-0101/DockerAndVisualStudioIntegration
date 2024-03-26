@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DrtboWN6zMJOBAJKNAJUZ/YgjmAod9O64yvzRtI5PyvJcTl8owDEhKNq7ai/qSAqsFR01AVVCqDGkbfku9PKww==",
+  "success": true,
+  "projectFilePath": "D:\\RepositorioLocal\\DockerAndVisualStudioIntegration\\DockerAndVisualStudioIntegration\\DockerAndVisualStudioIntegration\\DockerAndVisualStudioIntegration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arthas\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512"
+  ],
+  "logs": []
+}
